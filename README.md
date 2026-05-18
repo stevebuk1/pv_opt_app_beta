@@ -7,6 +7,4 @@ Solar / Battery Charging Optimisation App for Home Assistant - Beta Releases
 
 For Beta release documentation, see https://github.com/stevebuk1/pv_opt_app/tree/dev
 
-**Note: This repo is for Beta releases only**
-
-The production repo is at https://github.com/stevebuk1/pv_opt_app
+**Note: This repo is for Beta releases only**. The production repo is at https://github.com/stevebuk1/pv_opt_app
