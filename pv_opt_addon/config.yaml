@@ -8,8 +8,6 @@ arch:
   - aarch64
   - amd64
 
-image: "ghcr.io/stevebuk1/pv_opt_beta"
-
 # Home Assistant supervised access
 homeassistant_api: true
 auth_api: false
