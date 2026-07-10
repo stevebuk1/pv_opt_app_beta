@@ -9,5 +9,5 @@ squash: false
 labels:
   org.opencontainers.image.title: "PV Opt"
   org.opencontainers.image.description: "Solar/battery optimisation for Home Assistant"
-  org.opencontainers.image.source: "https://github.com/stevebuk1/pv_opt_app_beta"
+  org.opencontainers.image.source: "https://github.com/stevebuk1/pv_opt_app"
   org.opencontainers.image.licenses: "MIT"
